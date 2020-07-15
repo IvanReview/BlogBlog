@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlogInsta.iml" filepath="$PROJECT_DIR$/.idea/BlogInsta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BlogLaravel666/.idea/BlogLaravel666.iml" filepath="$PROJECT_DIR$/../BlogLaravel666/.idea/BlogLaravel666.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LaravelVue/.idea/LaravelVue.iml" filepath="$PROJECT_DIR$/../LaravelVue/.idea/LaravelVue.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/alexandria/.idea/alexandria.iml" filepath="$USER_HOME$/Documents/alexandria/.idea/alexandria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cms.loc/.idea/cms.loc.iml" filepath="$PROJECT_DIR$/../cms.loc/.idea/cms.loc.iml" />
+    </modules>
+  </component>
+</project>
